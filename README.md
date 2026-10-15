@@ -22,4 +22,4 @@ I build three kinds of things: forecasts that hold up when you test them on more
 
 #### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/thanapol-ds) · open to data science and AI engineering roles in LA or remote.
+[thanapol.ds@gmail.com](mailto:thanapol.ds@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thanapol-ds) · open to data science and AI engineering roles in LA or remote.
