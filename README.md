@@ -1,6 +1,6 @@
 ### Hi, I'm Neil (Thanapol Doungsaeng)
 
-I'm a data scientist in Los Angeles, finishing my MSBA at UCLA Anderson. Before that I worked at KBTG, the technology arm of KasikornBank in Thailand.
+I'm a data scientist at KasikornBank, based in Los Angeles while I finish my MSBA at UCLA Anderson. Before that I was at KBTG, the bank's technology arm.
 
 I build three kinds of things: forecasts that hold up when you test them on more than one window, AI agent systems where code does the math and people approve the decisions, and dashboards that turn raw data into something a manager can act on.
 
